@@ -1,0 +1,8 @@
+__pycache__/
+qdrant_storage/
+technical-test/
+notes_indonesian.md
+README_INDONESIAN.md
+.gitignore
+.DS_Store
+main-og.py
